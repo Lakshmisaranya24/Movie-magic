@@ -1,1 +1,1 @@
-# Movie-magic
+MovieMagic is a smart, user-friendly web application that allows users to seamlessly browse, select, and book movie tickets online. Designed with a dynamic interface and robust backend, the platform ensures a smooth movie-ticketing experience for both users and administrators.
